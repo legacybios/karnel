@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/logo.png" alt="Karnel OS Logo" width="200">
+  <img src="logo.png" alt="Karnel OS Logo" width="200">
 </p>
 
 <h1 align="center">
